@@ -1,0 +1,6 @@
+docker build -t  blogapp:v1 .
+
+docker run -p 5000:5000 blogapp:v1
+
+
+https://medium.com/front-end-weekly/net-core-web-api-with-docker-compose-postgresql-and-ef-core-21f47351224f

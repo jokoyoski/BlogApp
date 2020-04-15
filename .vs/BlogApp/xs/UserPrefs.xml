@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E0B715A6-F18D-42A1-9632-A2FD2705A661}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlogApp/BlogApp.csproj">
+    <Files>
+      <File FileName="BlogApp/Controllers/BlogController.cs" Line="17" Column="56" />
+      <File FileName="BlogApp/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="BlogApp/DbContextFolder/ApiDbContext.cs" Line="14" Column="2" />
+      <File FileName="BlogApp/Models/Blog.cs" Line="1" Column="1" />
+      <File FileName="BlogApp/Startup.cs" Line="34" Column="14" />
+      <File FileName="BlogApp/docker-compose.yml" Line="15" Column="8" />
+      <File FileName="BlogApp/dbscripts/seed.sql" />
+      <File FileName="BlogApp/appsettings.json" Line="2" Column="18" />
+      <File FileName="BlogApp/appsettings.Development.json" Line="6" Column="5" />
+      <File FileName="BlogApp/Program.cs" Line="1" Column="1" />
+      <File FileName="BlogApp/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="BlogApp/BlogApp.csproj" Line="17" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogApp" expanded="True">
+            <Node name="BlogApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="DbContextFolder" expanded="True" />
+              <Node name="dbscripts" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlogApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projects/BlogApp/BlogApp/8o2xaqxp.sjb~" relfile="BlogApp/8o2xaqxp.sjb~" line="28" column="1" />
+      <Breakpoint file="/Users/mac/Projects/BlogApp/BlogApp/Startup.cs" relfile="BlogApp/Startup.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
